@@ -1,0 +1,8 @@
+server:
+  runMode: debug
+  httpPort: 8000
+  readTimeout: 60   # second
+  writeTimeout: 60  # second
+
+jwt:
+  expireDuration: 3  # hour
